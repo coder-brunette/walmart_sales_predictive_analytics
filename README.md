@@ -20,8 +20,14 @@ The Walmart Sales Prediction project aimed to develop a predictive model to fore
 # Exploratory Data Analysis (EDA):
 
 1. Investigated departmental and store-wise sales variations.
-2. Explored the impact of store types, sizes, and holidays on sales.
-3, Identified top sales periods and observed unique patterns, such as Christmas sales timing.
+3. Explored the impact of store types, sizes, and holidays on sales.
+4. Identified top sales periods and observed unique patterns, such as Christmas sales timing.
+
+   
+![Viz_2](https://github.com/coder-brunette/walmart_sales_predictive_analytics/assets/25826647/16c2a20e-feb1-4005-b3a2-f8d270161604)
+
+
+![Viz_1](https://github.com/coder-brunette/walmart_sales_predictive_analytics/assets/25826647/21ed1bbc-7ac7-43da-9c64-6b0363761051)
 
 # Modeling:
 
